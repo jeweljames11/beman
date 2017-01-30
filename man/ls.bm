@@ -1,0 +1,13 @@
+ls - lists the files and folders in a directory.
+FORMAT 
+ls {OPTIONS}...{DIR}...
+EXAMPLES  
+ls 
+lists the contents of the present working directory. 
+ls -a  
+list the contents of the present working directory. Including the hidden files. 
+ls -l  
+list the contents along with their permissions, ownership nad some more details.
+ls /path/to/directory/ 
+list the contents of the specified directory. The options -a and -l works as expected.
+

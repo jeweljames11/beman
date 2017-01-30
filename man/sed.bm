@@ -1,0 +1,2 @@
+sed - stream text editor. You just send in a text stream, the sed commands modifiesthe text and outputs it.
+

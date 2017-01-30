@@ -1,0 +1,4 @@
+#!/bin/bash
+# beman - begineer's man pages
+loc='/home/pro/Dropbox/Projects/beman/man'
+less "$loc/$1.bm"

@@ -1,0 +1,8 @@
+cd - change directory.
+EXAMPLES :
+cd /path/to/directory 
+changes the present working directory to directory. The path can be relative or absolute.
+cd ~
+changes to current user's home directory.
+cd -
+changes to the previous working directory.
